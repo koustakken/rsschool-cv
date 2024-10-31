@@ -1,1 +1,1 @@
-[gh-pages](https://koustakken.github.io/rsschool-cv/cv)
+[markdown cv](https://koustakken.github.io/rsschool-cv/cv)
